@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/42570
     wikipedia: https://en.wikipedia.org/wiki/George_Vernon_Hudson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44096#An-Elementary-Manual-of-New-Zealand-EntomologyBeing-an-Introduction-to-the-Study-of-Our-Nativ_
 gutenberg_issued: '2013-11-02'
 gutenberg_type: Text
 identifiers:
